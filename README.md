@@ -5,9 +5,8 @@
 - [Demo Project](https://ermiarzv.github.io/DoJournal/)
 - Developed by Ermia Razavi
 - Created - November 2024
-- 🤖 Technologies Used - Html , css(Tailwind) 
+- 🤖 Technologies Used - Html , Tailwind css
 - How to reach me : with my
-[instagram](https://www.instagram.com/ermia_razavi.dev) and
 [linkedin](https://www.linkedin.com/in/ermia-razavi-a611312a3/)
 
 ![ErmiaRZV_DoJournal - Google Chrome 11_25_2024 2_36_45 PM](https://github.com/user-attachments/assets/738a09ca-5754-4cae-ac6d-bbb4cd072c27)
